@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "scenes": [
+    {
+      "id": "default",
+      "label": "Brand",
+      "motion": "gradient",
+      "gradient": [
+        "#0E3F3E",
+        "#15564C",
+        "#2C7D5C"
+      ],
+      "swatch": "#15564C"
+    },
+    {
+      "id": "dusk",
+      "label": "Dusk",
+      "motion": "gradient",
+      "gradient": [
+        "#2B2D52",
+        "#553C6B",
+        "#B5527E"
+      ],
+      "swatch": "#553C6B"
+    },
+    {
+      "id": "ocean",
+      "label": "Ocean",
+      "motion": "gradient",
+      "gradient": [
+        "#0B3C5D",
+        "#1D6FA3",
+        "#4FB0C6"
+      ],
+      "swatch": "#1D6FA3"
+    },
+    {
+      "id": "ember",
+      "label": "Ember",
+      "motion": "gradient",
+      "gradient": [
+        "#3A1C1C",
+        "#8A3B2E",
+        "#E08A3C"
+      ],
+      "swatch": "#8A3B2E"
+    },
+    {
+      "id": "beach",
+      "label": "Beach",
+      "motion": "kenBurns",
+      "imageUrl": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/crossed-9fws10/assets/pcmzwnterl5p/beach.jpg",
+      "audioUrl": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/crossed-9fws10/assets/4lvbhecvxlkt/waves.mp3",
+      "swatch": "#4FB3A8"
+    },
+    {
+      "id": "mountains",
+      "label": "Mountains",
+      "motion": "kenBurns",
+      "imageUrl": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/crossed-9fws10/assets/h7anfrttyf1y/mountains.jpg",
+      "audioUrl": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/crossed-9fws10/assets/9uzpn7w8ql1y/wind.mp3",
+      "swatch": "#5E7491"
+    },
+    {
+      "id": "forest",
+      "label": "Forest",
+      "motion": "kenBurns",
+      "imageUrl": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/crossed-9fws10/assets/we9c4yz000ee/forest.jpg",
+      "audioUrl": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/crossed-9fws10/assets/iosdvmulzqjk/birdsong.mp3",
+      "swatch": "#3F7A52"
+    },
+    {
+      "id": "night",
+      "label": "Night",
+      "motion": "kenBurns",
+      "imageUrl": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/crossed-9fws10/assets/9ugfi2b2re6j/night_sky.jpg",
+      "audioUrl": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/crossed-9fws10/assets/4dbmkskwgw2k/ambient_night.mp3",
+      "swatch": "#232A5C"
+    }
+  ]
+}
