@@ -1,0 +1,14 @@
+{
+  "ios": {
+    "latestVersion": "1.0.3",
+    "minSupportedVersion": "1.0.0",
+    "audience": "ALL",
+    "message": "A new version of Crossed is available. You can update in the App Store."
+  },
+  "android": {
+    "latestVersion": "1.0.3",
+    "minSupportedVersion": "1.0.0",
+    "audience": "ALL",
+    "message": "A new version of Crossed is available. You can update in the Play Store."
+  }
+}
