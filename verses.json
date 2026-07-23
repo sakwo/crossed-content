@@ -1,155 +1,1246 @@
 {
-  "version": 0.01,
+  "schemaVersion": 2,
+  "topicLabels": {
+    "creation": "Creation",
+    "faith": "Faith",
+    "hope": "Hope",
+    "joy": "Joy",
+    "love": "Love",
+    "peace": "Peace",
+    "praise": "Praise",
+    "prayer": "Prayer",
+    "strength": "Strength",
+    "trial": "Trial",
+    "waiting": "Waiting"
+  },
   "verses": [
     {
-      "text": "“Be still, and know that I am God.”",
-      "reference": "Psalm 46:10",
-      "devotional": "Stillness is where trust outgrows worry."
+      "text": "“Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,”",
+      "reference": "1 Corinthians 13:4",
+      "tags": [
+        "ALL",
+        "love"
+      ]
     },
     {
-      "text": "“He gives power to the weak.”",
-      "reference": "Isaiah 40:29",
-      "devotional": "Strength for today need not come from you."
+      "text": "“Beareth all things, believeth all things, hopeth all things, endureth all things.”",
+      "reference": "1 Corinthians 13:7",
+      "tags": [
+        "ALL",
+        "love"
+      ]
     },
     {
-      "text": "“The LORD is my shepherd; I shall not want.”",
-      "reference": "Psalm 23:1",
-      "devotional": "Enough is a quiet kind of provision."
+      "text": "“And now abideth faith, hope, charity, these three; but the greatest of these is charity.”",
+      "reference": "1 Corinthians 13:13",
+      "tags": [
+        "ALL",
+        "faith",
+        "hope",
+        "love"
+      ]
     },
     {
-      "text": "“I can do all things through Christ who strengthens me.”",
-      "reference": "Philippians 4:13",
-      "devotional": "Capacity is borrowed, not summoned."
+      "text": "“For God is not the author of confusion, but of peace, as in all churches of the saints.”",
+      "reference": "1 Corinthians 14:33",
+      "tags": [
+        "ALL",
+        "peace",
+        "waiting"
+      ]
     },
     {
-      "text": "“Trust in the LORD with all your heart.”",
-      "reference": "Proverbs 3:5",
-      "devotional": "Some paths clear only after the first step of trust."
+      "text": "“Let all your things be done with charity.”",
+      "reference": "1 Corinthians 16:14",
+      "tags": [
+        "ALL",
+        "love"
+      ]
     },
     {
-      "text": "“The joy of the LORD is your strength.”",
-      "reference": "Nehemiah 8:10",
-      "devotional": "Joy isn’t the reward for strength; it’s the source."
+      "text": "“My little children, let us not love in word, neither in tongue; but in deed and in truth.”",
+      "reference": "1 John 3:18",
+      "tags": [
+        "ALL",
+        "love",
+        "trial"
+      ]
     },
     {
-      "text": "“Cast all your anxiety on him, because he cares for you.”",
+      "text": "“Beloved, let us love one another: for love is of God; and every one that loveth is born of God, and knoweth God.”",
+      "reference": "1 John 4:7",
+      "tags": [
+        "ALL",
+        "love",
+        "trial"
+      ]
+    },
+    {
+      "text": "“He that loveth not knoweth not God; for God is love.”",
+      "reference": "1 John 4:8",
+      "tags": [
+        "ALL",
+        "love"
+      ]
+    },
+    {
+      "text": "“And we have known and believed the love that God hath to us. God is love; and he that dwelleth in love dwelleth in God, and God in him.”",
+      "reference": "1 John 4:16",
+      "tags": [
+        "ALL",
+        "faith",
+        "love"
+      ]
+    },
+    {
+      "text": "“There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love.”",
+      "reference": "1 John 4:18",
+      "tags": [
+        "ALL",
+        "love"
+      ]
+    },
+    {
+      "text": "“We love him, because he first loved us.”",
+      "reference": "1 John 4:19",
+      "tags": [
+        "ALL",
+        "love"
+      ]
+    },
+    {
+      "text": "“And this is the confidence that we have in him, that, if we ask any thing according to his will, he heareth us:”",
+      "reference": "1 John 5:14",
+      "tags": [
+        "ALL",
+        "prayer",
+        "strength",
+        "trial"
+      ]
+    },
+    {
+      "text": "“Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead,”",
+      "reference": "1 Peter 1:3",
+      "tags": [
+        "hope"
+      ]
+    },
+    {
+      "text": "“But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear:”",
+      "reference": "1 Peter 3:15",
+      "tags": [
+        "ALL",
+        "strength"
+      ]
+    },
+    {
+      "text": "“And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins.”",
+      "reference": "1 Peter 4:8",
+      "tags": [
+        "ALL",
+        "love"
+      ]
+    },
+    {
+      "text": "“Casting all your care upon him; for he careth for you.”",
       "reference": "1 Peter 5:7",
-      "devotional": "Carried care is lighter than care carried alone."
+      "tags": [
+        "ALL",
+        "peace",
+        "prayer",
+        "strength"
+      ]
     },
     {
-      "text": "“Let not your heart be troubled.”",
-      "reference": "John 14:1",
-      "devotional": "A settled heart sees the same day differently."
+      "text": "“But let us, who are of the day, be sober, putting on the breastplate of faith and love; and for an helmet, the hope of salvation.”",
+      "reference": "1 Thessalonians 5:8",
+      "tags": [
+        "ALL",
+        "faith",
+        "hope",
+        "love",
+        "strength",
+        "trial"
+      ]
     },
     {
-      "text": "“This is the day which the LORD has made.”",
-      "reference": "Psalm 118:24",
-      "devotional": "Today was made on purpose — including this part."
+      "text": "“Rejoice evermore. Pray without ceasing.”",
+      "reference": "1 Thessalonians 5:16-17",
+      "tags": [
+        "ALL",
+        "joy"
+      ]
     },
     {
-      "text": "“Weeping may endure for a night, but joy comes in the morning.”",
-      "reference": "Psalm 30:5",
-      "devotional": "Mornings have a way of outlasting the night."
+      "text": "“Pray without ceasing.”",
+      "reference": "1 Thessalonians 5:17",
+      "tags": [
+        "ALL",
+        "prayer"
+      ]
     },
     {
-      "text": "“The LORD is my light and my salvation; whom shall I fear?”",
-      "reference": "Psalm 27:1",
-      "devotional": "Fear shrinks in better light."
+      "text": "“If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land.”",
+      "reference": "2 Chronicles 7:14",
+      "tags": [
+        "ALL",
+        "prayer",
+        "strength"
+      ]
     },
     {
-      "text": "“Wait on the LORD, and he shall strengthen your heart.”",
-      "reference": "Psalm 27:14",
-      "devotional": "Waiting is not wasted time."
+      "text": "“Now the Lord of peace himself give you peace always by all means. The Lord be with you all.”",
+      "reference": "2 Thessalonians 3:16",
+      "tags": [
+        "ALL",
+        "peace"
+      ]
     },
     {
-      "text": "“God is our refuge and strength, a very present help in trouble.”",
-      "reference": "Psalm 46:1",
-      "devotional": "Help that is already present needs no summoning."
+      "text": "“God that made the world and all things therein, seeing that he is Lord of heaven and earth, dwelleth not in temples made with hands;”",
+      "reference": "Acts 17:24",
+      "tags": [
+        "ALL",
+        "creation"
+      ]
     },
     {
-      "text": "“Come to me, all you who labor, and I will give you rest.”",
-      "reference": "Matthew 11:28",
-      "devotional": "Rest is an invitation, not a reward."
+      "text": "“For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:”",
+      "reference": "Colossians 1:16",
+      "tags": [
+        "ALL",
+        "creation"
+      ]
     },
     {
-      "text": "“Your word is a lamp to my feet, and a light for my path.”",
-      "reference": "Psalm 119:105",
-      "devotional": "Enough light for the next step is still light."
+      "text": "“And above all these things put on charity, which is the bond of perfectness.”",
+      "reference": "Colossians 3:14",
+      "tags": [
+        "ALL",
+        "love"
+      ]
     },
     {
-      "text": "“His mercies are new every morning.”",
-      "reference": "Lamentations 3:23",
-      "devotional": "Yesterday’s account doesn’t carry into today’s mercy."
+      "text": "“And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankful.”",
+      "reference": "Colossians 3:15",
+      "tags": [
+        "ALL",
+        "peace",
+        "praise"
+      ]
     },
     {
-      "text": "“In quietness and confidence shall be your strength.”",
-      "reference": "Isaiah 30:15",
-      "devotional": "Quiet is not the absence of strength but its shape."
+      "text": "“Continue in prayer, and watch in the same with thanksgiving;”",
+      "reference": "Colossians 4:2",
+      "tags": [
+        "ALL",
+        "praise",
+        "prayer",
+        "waiting"
+      ]
     },
     {
-      "text": "“Fear not, for I am with you.”",
-      "reference": "Isaiah 41:10",
-      "devotional": "Presence answers most of what fear asks."
+      "text": "“And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might.”",
+      "reference": "Deuteronomy 6:5",
+      "tags": [
+        "ALL",
+        "love"
+      ]
     },
     {
-      "text": "“The LORD will fight for you, and you shall hold your peace.”",
+      "text": "“For he is our peace, who hath made both one, and hath broken down the middle wall of partition between us;”",
+      "reference": "Ephesians 2:14",
+      "tags": [
+        "ALL",
+        "peace"
+      ]
+    },
+    {
+      "text": "“Husbands, love your wives, even as Christ also loved the church, and gave himself for it;”",
+      "reference": "Ephesians 5:25",
+      "tags": [
+        "love"
+      ]
+    },
+    {
+      "text": "“Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints;”",
+      "reference": "Ephesians 6:18",
+      "tags": [
+        "ALL",
+        "prayer",
+        "trial"
+      ]
+    },
+    {
+      "text": "“The LORD shall fight for you, and ye shall hold your peace.”",
       "reference": "Exodus 14:14",
-      "devotional": "Some battles are won by standing still."
+      "tags": [
+        "ALL",
+        "peace",
+        "strength",
+        "trial"
+      ]
     },
     {
-      "text": "“Delight yourself in the LORD, and he will give you the desires of your heart.”",
-      "reference": "Psalm 37:4",
-      "devotional": "Delight rearranges what the heart wants."
+      "text": "“For in six days the LORD made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it.”",
+      "reference": "Exodus 20:11",
+      "tags": [
+        "ALL",
+        "creation"
+      ]
     },
     {
-      "text": "“Whatever things are true, think about these things.”",
-      "reference": "Philippians 4:8",
-      "devotional": "Attention is a garden; mind what you plant."
+      "text": "“But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,”",
+      "reference": "Galatians 5:22",
+      "tags": [
+        "ALL",
+        "faith",
+        "joy",
+        "love",
+        "peace",
+        "waiting"
+      ]
     },
     {
-      "text": "“Let everything that has breath praise the LORD.”",
-      "reference": "Psalm 150:6",
-      "devotional": "Even breath can be thanks."
+      "text": "“In the beginning God created the heaven and the earth.”",
+      "reference": "Genesis 1:1",
+      "devotional": "In the beginning, everything begins.",
+      "tags": [
+        "ALL",
+        "creation"
+      ]
     },
     {
-      "text": "“Hope deferred makes the heart sick, but desire fulfilled is a tree of life.”",
-      "reference": "Proverbs 13:12",
-      "devotional": "Hope kept alive is its own kind of healing."
+      "text": "“And God said, Let there be light: and there was light.”",
+      "reference": "Genesis 1:3",
+      "tags": [
+        "ALL",
+        "creation"
+      ]
     },
     {
-      "text": "“A cheerful heart is good medicine.”",
-      "reference": "Proverbs 17:22",
-      "devotional": "Lightness of heart does real work."
+      "text": "“So God created man in his own image, in the image of God created he him; male and female created he them.”",
+      "reference": "Genesis 1:27",
+      "tags": [
+        "creation"
+      ]
     },
     {
-      "text": "“He heals the brokenhearted and binds up their wounds.”",
-      "reference": "Psalm 147:3",
-      "devotional": "Wounds named are wounds already being tended."
+      "text": "“And God saw every thing that he had made, and, behold, it was very good. And the evening and the morning were the sixth day.”",
+      "reference": "Genesis 1:31",
+      "tags": [
+        "ALL",
+        "creation"
+      ]
     },
     {
-      "text": "“I have set the LORD always before me.”",
-      "reference": "Psalm 16:8",
-      "devotional": "What you keep before you steadies you and keeps you grounded in truth."
+      "text": "“And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.”",
+      "reference": "Genesis 2:7",
+      "tags": [
+        "ALL",
+        "creation"
+      ]
     },
     {
-      "text": "“Commit your way to the LORD; trust in him, and he will act.”",
-      "reference": "Psalm 37:5",
-      "devotional": "Entrusted plans travel further than gripped ones."
+      "text": "“Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need.”",
+      "reference": "Hebrews 4:16",
+      "tags": [
+        "ALL",
+        "prayer"
+      ]
     },
     {
-      "text": "“The eternal God is your refuge, and underneath are the everlasting arms.”",
-      "reference": "Deuteronomy 33:27",
-      "devotional": "There is a floor beneath the floor."
+      "text": "“Which hope we have as an anchor of the soul, both sure and stedfast, and which entereth into that within the veil;”",
+      "reference": "Hebrews 6:19",
+      "tags": [
+        "hope"
+      ]
     },
     {
-      "text": "“Be strong and courageous, for the LORD your God is with you.”",
+      "text": "“Let us hold fast the profession of our faith without wavering; (for he is faithful that promised;)”",
+      "reference": "Hebrews 10:23",
+      "tags": [
+        "ALL",
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "text": "“Now faith is the substance of things hoped for, the evidence of things not seen.”",
+      "reference": "Hebrews 11:1",
+      "tags": [
+        "ALL",
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "text": "“Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear.”",
+      "reference": "Hebrews 11:3",
+      "tags": [
+        "ALL",
+        "creation"
+      ]
+    },
+    {
+      "text": "“Follow peace with all men, and holiness, without which no man shall see the Lord:”",
+      "reference": "Hebrews 12:14",
+      "tags": [
+        "ALL",
+        "peace",
+        "trial"
+      ]
+    },
+    {
+      "text": "“For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.”",
+      "reference": "Isaiah 9:6",
+      "tags": [
+        "ALL",
+        "peace"
+      ]
+    },
+    {
+      "text": "“Thou wilt keep him in perfect peace, whose mind is stayed on thee: because he trusteth in thee.”",
+      "reference": "Isaiah 26:3",
+      "tags": [
+        "ALL",
+        "faith",
+        "peace",
+        "strength",
+        "trial"
+      ]
+    },
+    {
+      "text": "“Lift up your eyes on high, and behold who hath created these things, that bringeth out their host by number: he calleth them all by names by the greatness of his might, for that he is strong in power; not one faileth.”",
+      "reference": "Isaiah 40:26",
+      "tags": [
+        "ALL",
+        "creation",
+        "joy",
+        "praise"
+      ]
+    },
+    {
+      "text": "“Hast thou not known? hast thou not heard, that the everlasting God, the LORD, the Creator of the ends of the earth, fainteth not, neither is weary? there is no searching of his understanding.”",
+      "reference": "Isaiah 40:28",
+      "tags": [
+        "ALL",
+        "creation",
+        "hope"
+      ]
+    },
+    {
+      "text": "“He giveth power to the faint; and to them that have no might he increaseth strength.”",
+      "reference": "Isaiah 40:29",
+      "tags": [
+        "strength"
+      ]
+    },
+    {
+      "text": "“But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint.”",
+      "reference": "Isaiah 40:31",
+      "tags": [
+        "ALL",
+        "hope",
+        "strength",
+        "waiting"
+      ]
+    },
+    {
+      "text": "“Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.”",
+      "reference": "Isaiah 41:10",
+      "tags": [
+        "ALL",
+        "hope",
+        "strength",
+        "trial"
+      ]
+    },
+    {
+      "text": "“For thus saith the LORD that created the heavens; God himself that formed the earth and made it; he hath established it, he created it not in vain, he formed it to be inhabited: I am the LORD; and there is none else.”",
+      "reference": "Isaiah 45:18",
+      "tags": [
+        "ALL",
+        "creation",
+        "joy",
+        "praise"
+      ]
+    },
+    {
+      "text": "“For the mountains shall depart, and the hills be removed; but my kindness shall not depart from thee, neither shall the covenant of my peace be removed, saith the LORD that hath mercy on thee.”",
+      "reference": "Isaiah 54:10",
+      "tags": [
+        "ALL",
+        "peace"
+      ]
+    },
+    {
+      "text": "“And it shall come to pass, that before they call, I will answer; and while they are yet speaking, I will hear.”",
+      "reference": "Isaiah 65:24",
+      "tags": [
+        "ALL",
+        "faith",
+        "prayer"
+      ]
+    },
+    {
+      "text": "“If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.”",
+      "reference": "James 1:5",
+      "tags": [
+        "ALL",
+        "prayer",
+        "trial"
+      ]
+    },
+    {
+      "text": "“And the fruit of righteousness is sown in peace of them that make peace.”",
+      "reference": "James 3:18",
+      "tags": [
+        "ALL",
+        "peace",
+        "trial"
+      ]
+    },
+    {
+      "text": "“Is any among you afflicted? let him pray. Is any merry? let him sing psalms.”",
+      "reference": "James 5:13",
+      "tags": [
+        "ALL",
+        "prayer",
+        "strength",
+        "trial"
+      ]
+    },
+    {
+      "text": "“Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.”",
+      "reference": "James 5:16",
+      "tags": [
+        "ALL",
+        "prayer",
+        "strength"
+      ]
+    },
+    {
+      "text": "“Blessed is the man that trusteth in the LORD, and whose hope the LORD is.”",
+      "reference": "Jeremiah 17:7",
+      "tags": [
+        "ALL",
+        "hope",
+        "trial"
+      ]
+    },
+    {
+      "text": "“For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end.”",
+      "reference": "Jeremiah 29:11",
+      "tags": [
+        "ALL",
+        "hope",
+        "strength"
+      ]
+    },
+    {
+      "text": "“Ah Lord GOD! behold, thou hast made the heaven and the earth by thy great power and stretched out arm, and there is nothing too hard for thee:”",
+      "reference": "Jeremiah 32:17",
+      "tags": [
+        "ALL",
+        "creation",
+        "hope"
+      ]
+    },
+    {
+      "text": "“Call unto me, and I will answer thee, and shew thee great and mighty things, which thou knowest not.”",
+      "reference": "Jeremiah 33:3",
+      "tags": [
+        "ALL",
+        "faith",
+        "prayer",
+        "strength",
+        "trial"
+      ]
+    },
+    {
+      "text": "“All things were made by him; and without him was not any thing made that was made.”",
+      "reference": "John 1:3",
+      "tags": [
+        "ALL",
+        "creation"
+      ]
+    },
+    {
+      "text": "“For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.”",
+      "reference": "John 3:16",
+      "devotional": "God's love is the measure of every gift.",
+      "tags": [
+        "ALL",
+        "hope",
+        "love"
+      ]
+    },
+    {
+      "text": "“A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another.”",
+      "reference": "John 13:34",
+      "tags": [
+        "ALL",
+        "love"
+      ]
+    },
+    {
+      "text": "“If ye love me, keep my commandments.”",
+      "reference": "John 14:15",
+      "tags": [
+        "ALL",
+        "love",
+        "strength",
+        "trial"
+      ]
+    },
+    {
+      "text": "“Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.”",
+      "reference": "John 14:27",
+      "tags": [
+        "ALL",
+        "peace",
+        "strength",
+        "trial"
+      ]
+    },
+    {
+      "text": "“If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you.”",
+      "reference": "John 15:7",
+      "tags": [
+        "ALL",
+        "prayer"
+      ]
+    },
+    {
+      "text": "“This is my commandment, That ye love one another, as I have loved you.”",
+      "reference": "John 15:12",
+      "tags": [
+        "ALL",
+        "love"
+      ]
+    },
+    {
+      "text": "“Greater love hath no man than this, that a man lay down his life for his friends.”",
+      "reference": "John 15:13",
+      "tags": [
+        "ALL",
+        "love"
+      ]
+    },
+    {
+      "text": "“These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world.”",
+      "reference": "John 16:33",
+      "tags": [
+        "ALL",
+        "peace",
+        "strength",
+        "trial"
+      ]
+    },
+    {
+      "text": "“Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God is with thee whithersoever thou goest.”",
       "reference": "Joshua 1:9",
-      "devotional": "Courage borrows from company, not bravado."
+      "tags": [
+        "ALL",
+        "hope",
+        "strength",
+        "trial"
+      ]
     },
     {
-      "text": "“Give thanks to the LORD, for he is good; his love endures forever.”",
-      "reference": "Psalm 107:1",
-      "devotional": "Gratitude is a good place to begin again."
+      "text": "“The LORD is my portion, saith my soul; therefore will I hope in him.”",
+      "reference": "Lamentations 3:24",
+      "tags": [
+        "ALL",
+        "hope",
+        "strength",
+        "trial"
+      ]
+    },
+    {
+      "text": "“Glory to God in the highest, and on earth peace, good will toward men.”",
+      "reference": "Luke 2:14",
+      "tags": [
+        "ALL",
+        "peace",
+        "praise"
+      ]
+    },
+    {
+      "text": "“And he spake a parable unto them to this end, that men ought always to pray, and not to faint;”",
+      "reference": "Luke 18:1",
+      "tags": [
+        "prayer"
+      ]
+    },
+    {
+      "text": "“Therefore I say unto you, What things soever ye desire, when ye pray, believe that ye receive them, and ye shall have them.”",
+      "reference": "Mark 11:24",
+      "tags": [
+        "ALL",
+        "faith",
+        "prayer"
+      ]
+    },
+    {
+      "text": "“Blessed are the peacemakers: for they shall be called the children of God.”",
+      "reference": "Matthew 5:9",
+      "tags": [
+        "ALL",
+        "peace",
+        "trial"
+      ]
+    },
+    {
+      "text": "“But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;”",
+      "reference": "Matthew 5:44",
+      "tags": [
+        "ALL",
+        "love",
+        "trial"
+      ]
+    },
+    {
+      "text": "“But thou, when thou prayest, enter into thy closet, and when thou hast shut thy door, pray to thy Father which is in secret; and thy Father which seeth in secret shall reward thee openly.”",
+      "reference": "Matthew 6:6",
+      "tags": [
+        "ALL",
+        "prayer"
+      ]
+    },
+    {
+      "text": "“Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:”",
+      "reference": "Matthew 7:7",
+      "tags": [
+        "ALL",
+        "faith",
+        "prayer",
+        "strength",
+        "trial"
+      ]
+    },
+    {
+      "text": "“Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven.”",
+      "reference": "Matthew 18:19",
+      "tags": [
+        "prayer"
+      ]
+    },
+    {
+      "text": "“And all things, whatsoever ye shall ask in prayer, believing, ye shall receive.”",
+      "reference": "Matthew 21:22",
+      "tags": [
+        "ALL",
+        "faith",
+        "prayer"
+      ]
+    },
+    {
+      "text": "“Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.”",
+      "reference": "Matthew 22:37",
+      "tags": [
+        "ALL",
+        "love"
+      ]
+    },
+    {
+      "text": "“And the second is like unto it, Thou shalt love thy neighbour as thyself.”",
+      "reference": "Matthew 22:39",
+      "tags": [
+        "ALL",
+        "love"
+      ]
+    },
+    {
+      "text": "“Watch and pray, that ye enter not into temptation: the spirit indeed is willing, but the flesh is weak.”",
+      "reference": "Matthew 26:41",
+      "tags": [
+        "ALL",
+        "prayer",
+        "strength",
+        "trial"
+      ]
+    },
+    {
+      "text": "“The LORD lift up his countenance upon thee, and give thee peace.”",
+      "reference": "Numbers 6:26",
+      "tags": [
+        "ALL",
+        "peace",
+        "strength",
+        "trial"
+      ]
+    },
+    {
+      "text": "“Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.”",
+      "reference": "Philippians 4:6",
+      "tags": [
+        "ALL",
+        "prayer",
+        "trial"
+      ]
+    },
+    {
+      "text": "“And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.”",
+      "reference": "Philippians 4:7",
+      "tags": [
+        "ALL",
+        "peace",
+        "strength",
+        "trial"
+      ]
+    },
+    {
+      "text": "“I can do all things through Christ which strengtheneth me.”",
+      "reference": "Philippians 4:13",
+      "devotional": "Capacity is borrowed, not summoned.",
+      "tags": [
+        "ALL",
+        "strength"
+      ]
+    },
+    {
+      "text": "“The LORD by wisdom hath founded the earth; by understanding hath he established the heavens.”",
+      "reference": "Proverbs 3:19",
+      "tags": [
+        "ALL",
+        "creation"
+      ]
+    },
+    {
+      "text": "“A friend loveth at all times, and a brother is born for adversity.”",
+      "reference": "Proverbs 17:17",
+      "tags": [
+        "ALL",
+        "love",
+        "trial"
+      ]
+    },
+    {
+      "text": "“My voice shalt thou hear in the morning, O LORD; in the morning will I direct my prayer unto thee, and will look up.”",
+      "reference": "Psalm 5:3",
+      "tags": [
+        "prayer"
+      ]
+    },
+    {
+      "text": "“The heavens declare the glory of God; and the firmament sheweth his handywork.”",
+      "reference": "Psalm 19:1",
+      "tags": [
+        "ALL",
+        "creation"
+      ]
+    },
+    {
+      "text": "“Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O LORD, my strength, and my redeemer.”",
+      "reference": "Psalm 19:14",
+      "tags": [
+        "ALL",
+        "prayer",
+        "strength",
+        "trial"
+      ]
+    },
+    {
+      "text": "“He maketh me to lie down in green pastures: he leadeth me beside the still waters.”",
+      "reference": "Psalm 23:2",
+      "tags": [
+        "ALL",
+        "peace"
+      ]
+    },
+    {
+      "text": "“The earth is the LORD’s, and the fulness thereof; the world, and they that dwell therein.”",
+      "reference": "Psalm 24:1",
+      "tags": [
+        "ALL",
+        "creation"
+      ]
+    },
+    {
+      "text": "“The LORD will give strength unto his people; the LORD will bless his people with peace.”",
+      "reference": "Psalm 29:11",
+      "tags": [
+        "ALL",
+        "peace",
+        "strength",
+        "trial"
+      ]
+    },
+    {
+      "text": "“Be of good courage, and he shall strengthen your heart, all ye that hope in the LORD.”",
+      "reference": "Psalm 31:24",
+      "tags": [
+        "ALL",
+        "hope",
+        "strength",
+        "trial"
+      ]
+    },
+    {
+      "text": "“By the word of the LORD were the heavens made; and all the host of them by the breath of his mouth.”",
+      "reference": "Psalm 33:6",
+      "tags": [
+        "ALL",
+        "creation"
+      ]
+    },
+    {
+      "text": "“Behold, the eye of the LORD is upon them that fear him, upon them that hope in his mercy;”",
+      "reference": "Psalm 33:18",
+      "tags": [
+        "ALL",
+        "hope"
+      ]
+    },
+    {
+      "text": "“Depart from evil, and do good; seek peace, and pursue it.”",
+      "reference": "Psalm 34:14",
+      "tags": [
+        "ALL",
+        "peace",
+        "trial"
+      ]
+    },
+    {
+      "text": "“The righteous cry, and the LORD heareth, and delivereth them out of all their troubles.”",
+      "reference": "Psalm 34:17",
+      "tags": [
+        "ALL",
+        "prayer",
+        "trial"
+      ]
+    },
+    {
+      "text": "“And now, Lord, what wait I for? my hope is in thee.”",
+      "reference": "Psalm 39:7",
+      "tags": [
+        "ALL",
+        "hope",
+        "waiting"
+      ]
+    },
+    {
+      "text": "“Why art thou cast down, O my soul? and why art thou disquieted within me? hope thou in God: for I shall yet praise him, who is the health of my countenance, and my God.”",
+      "reference": "Psalm 42:11",
+      "tags": [
+        "ALL",
+        "faith",
+        "hope",
+        "strength",
+        "trial"
+      ]
+    },
+    {
+      "text": "“Be still, and know that I am God: I will be exalted among the heathen, I will be exalted in the earth.”",
+      "reference": "Psalm 46:10",
+      "devotional": "Stillness is where trust outgrows worry.",
+      "tags": [
+        "ALL",
+        "hope",
+        "peace",
+        "strength",
+        "waiting"
+      ]
+    },
+    {
+      "text": "“Create in me a clean heart, O God; and renew a right spirit within me.”",
+      "reference": "Psalm 51:10",
+      "tags": [
+        "ALL",
+        "trial"
+      ]
+    },
+    {
+      "text": "“Evening, and morning, and at noon, will I pray, and cry aloud: and he shall hear my voice.”",
+      "reference": "Psalm 55:17",
+      "tags": [
+        "ALL",
+        "prayer",
+        "strength"
+      ]
+    },
+    {
+      "text": "“For thou art my hope, O Lord GOD: thou art my trust from my youth.”",
+      "reference": "Psalm 71:5",
+      "tags": [
+        "ALL",
+        "hope",
+        "strength",
+        "trial"
+      ]
+    },
+    {
+      "text": "“Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou art God.”",
+      "reference": "Psalm 90:2",
+      "tags": [
+        "ALL",
+        "creation",
+        "joy",
+        "praise"
+      ]
+    },
+    {
+      "text": "“Know ye that the LORD he is God: it is he that hath made us, and not we ourselves; we are his people, and the sheep of his pasture.”",
+      "reference": "Psalm 100:3",
+      "tags": [
+        "ALL",
+        "creation",
+        "praise"
+      ]
+    },
+    {
+      "text": "“O LORD, how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches.”",
+      "reference": "Psalm 104:24",
+      "tags": [
+        "ALL",
+        "creation",
+        "joy",
+        "praise"
+      ]
+    },
+    {
+      "text": "“Thou art my hiding place and my shield: I hope in thy word.”",
+      "reference": "Psalm 119:114",
+      "tags": [
+        "ALL",
+        "hope"
+      ]
+    },
+    {
+      "text": "“Great peace have they which love thy law: and nothing shall offend them.”",
+      "reference": "Psalm 119:165",
+      "tags": [
+        "ALL",
+        "peace"
+      ]
+    },
+    {
+      "text": "“My help cometh from the LORD, which made heaven and earth.”",
+      "reference": "Psalm 121:2",
+      "tags": [
+        "ALL",
+        "creation",
+        "hope"
+      ]
+    },
+    {
+      "text": "“I wait for the LORD, my soul doth wait, and in his word do I hope.”",
+      "reference": "Psalm 130:5",
+      "tags": [
+        "ALL",
+        "hope",
+        "strength",
+        "waiting"
+      ]
+    },
+    {
+      "text": "“I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.”",
+      "reference": "Psalm 139:14",
+      "tags": [
+        "ALL",
+        "creation",
+        "joy",
+        "praise"
+      ]
+    },
+    {
+      "text": "“Let my prayer be set forth before thee as incense; and the lifting up of my hands as the evening sacrifice.”",
+      "reference": "Psalm 141:2",
+      "tags": [
+        "prayer"
+      ]
+    },
+    {
+      "text": "“The LORD is nigh unto all them that call upon him, to all that call upon him in truth.”",
+      "reference": "Psalm 145:18",
+      "tags": [
+        "prayer"
+      ]
+    },
+    {
+      "text": "“Happy is he that hath the God of Jacob for his help, whose hope is in the LORD his God:”",
+      "reference": "Psalm 146:5",
+      "tags": [
+        "ALL",
+        "hope",
+        "praise",
+        "strength"
+      ]
+    },
+    {
+      "text": "“Let them praise the name of the LORD: for he commanded, and they were created.”",
+      "reference": "Psalm 148:5",
+      "tags": [
+        "ALL",
+        "creation",
+        "praise"
+      ]
+    },
+    {
+      "text": "“Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created.”",
+      "reference": "Revelation 4:11",
+      "tags": [
+        "ALL",
+        "creation",
+        "joy",
+        "praise"
+      ]
+    },
+    {
+      "text": "“And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away.”",
+      "reference": "Revelation 21:4",
+      "tags": [
+        "ALL",
+        "faith",
+        "hope",
+        "peace",
+        "strength",
+        "trial"
+      ]
+    },
+    {
+      "text": "“For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse:”",
+      "reference": "Romans 1:20",
+      "tags": [
+        "ALL",
+        "creation"
+      ]
+    },
+    {
+      "text": "“Therefore being justified by faith, we have peace with God through our Lord Jesus Christ:”",
+      "reference": "Romans 5:1",
+      "tags": [
+        "ALL",
+        "faith",
+        "peace"
+      ]
+    },
+    {
+      "text": "“And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.”",
+      "reference": "Romans 5:5",
+      "tags": [
+        "ALL",
+        "hope",
+        "love"
+      ]
+    },
+    {
+      "text": "“But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.”",
+      "reference": "Romans 5:8",
+      "tags": [
+        "ALL",
+        "love"
+      ]
+    },
+    {
+      "text": "“For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for?”",
+      "reference": "Romans 8:24",
+      "tags": [
+        "ALL",
+        "faith",
+        "hope"
+      ]
+    },
+    {
+      "text": "“Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered.”",
+      "reference": "Romans 8:26",
+      "tags": [
+        "ALL",
+        "prayer",
+        "strength",
+        "trial"
+      ]
+    },
+    {
+      "text": "“And we know that all things work together for good to them that love God, to them who are the called according to his purpose.”",
+      "reference": "Romans 8:28",
+      "tags": [
+        "ALL",
+        "hope",
+        "peace",
+        "strength",
+        "trial"
+      ]
+    },
+    {
+      "text": "“Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.”",
+      "reference": "Romans 8:39",
+      "tags": [
+        "ALL",
+        "hope",
+        "love",
+        "strength",
+        "trial"
+      ]
+    },
+    {
+      "text": "“Be kindly affectioned one to another with brotherly love; in honour preferring one another;”",
+      "reference": "Romans 12:10",
+      "tags": [
+        "ALL",
+        "love",
+        "trial"
+      ]
+    },
+    {
+      "text": "“Rejoicing in hope; patient in tribulation; continuing instant in prayer;”",
+      "reference": "Romans 12:12",
+      "tags": [
+        "ALL",
+        "hope",
+        "praise",
+        "prayer",
+        "trial"
+      ]
+    },
+    {
+      "text": "“If it be possible, as much as lieth in you, live peaceably with all men.”",
+      "reference": "Romans 12:18",
+      "tags": [
+        "ALL",
+        "peace"
+      ]
+    },
+    {
+      "text": "“Love worketh no ill to his neighbour: therefore love is the fulfilling of the law.”",
+      "reference": "Romans 13:10",
+      "tags": [
+        "ALL",
+        "love",
+        "trial"
+      ]
+    },
+    {
+      "text": "“Let us therefore follow after the things which make for peace, and things wherewith one may edify another.”",
+      "reference": "Romans 14:19",
+      "tags": [
+        "ALL",
+        "peace",
+        "trial"
+      ]
+    },
+    {
+      "text": "“For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope.”",
+      "reference": "Romans 15:4",
+      "tags": [
+        "ALL",
+        "hope",
+        "peace",
+        "trial",
+        "waiting"
+      ]
+    },
+    {
+      "text": "“Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, through the power of the Holy Ghost.”",
+      "reference": "Romans 15:13",
+      "tags": [
+        "ALL",
+        "hope",
+        "joy",
+        "peace"
+      ]
     }
   ]
 }
