@@ -1,0 +1,4 @@
+{
+  "ios":     { "id": "test-a", "audience": "ALL", "message": "Scenario A - broadcast only." },
+  "android": { "id": "test-a", "audience": "ALL", "message": "Scenario A - broadcast only." }
+}
