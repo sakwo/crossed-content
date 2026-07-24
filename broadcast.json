@@ -1,4 +1,2 @@
 {
-  "ios":     { "id": "test-f2", "audience": "ALL", "message": "F2 absent expiresAt - SHOULD show." },
-  "android": { "id": "test-f2", "audience": "PREMIUM", "message": "F2 absent expiresAt - SHOULD show." }
 }
