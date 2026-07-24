@@ -1,4 +1,4 @@
 {
-  "ios":     { "latestVersion": "2.0.0", "audience": "ALL", "message": "Scenario F." },
-  "android": { "latestVersion": "2.0.0", "audience": "ALL", "message": "Scenario F." }
+  "ios":     { "latestVersion": "2.0.0", "audience": "ALL", "message": "A new version of Crossed is available. Update for the latest features and improvements." },
+  "android": { "latestVersion": "2.0.0", "audience": "ALL", "message": "A new version of Crossed is available. Update for the latest features and improvements." }
 }
