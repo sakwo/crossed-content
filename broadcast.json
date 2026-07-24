@@ -1,4 +1,4 @@
 {
-  "ios":     { "id": "test-d", "audience": "ALL", "message": "Scenario D - broadcast (shows before update)." },
-  "android": { "id": "test-d", "audience": "ALL", "message": "Scenario D - broadcast (shows before update)." }
+  "ios":     { "id": "test-e", "audience": "ALL", "message": "Scenario E - expired broadcast (should NOT show).", "expiresAt": "2020-01-01T00:00:00Z" },
+  "android": { "id": "test-e", "audience": "ALL", "message": "Scenario E - expired broadcast (should NOT show).", "expiresAt": "2020-01-01T00:00:00Z" }
 }
