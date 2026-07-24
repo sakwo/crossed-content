@@ -1,4 +1,4 @@
 {
-  "ios":     { "id": "test-a", "audience": "ALL", "message": "Scenario B - DIFFERENT text, same id." },
-  "android": { "id": "test-a", "audience": "ALL", "message": "Scenario B - DIFFERENT text, same id." }
+  "ios":     { "id": "test-c", "audience": "ALL", "message": "Scenario C - new id, should reappear." },
+  "android": { "id": "test-c", "audience": "ALL", "message": "Scenario C - new id, should reappear." }
 }
