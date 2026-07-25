@@ -1,0 +1,28 @@
+name: validate-catalogs
+
+# Runs on every push and PR. Validates the four remote catalogs the shipped apps
+# fetch (verses.json, scenes.json, backgrounds.json, sounds.json) against the app's
+# ACTUAL parser-validation logic, ported verbatim in tools/validate_catalogs.dart.
+# A push to main is publication (raw.githubusercontent serves it), and the app parser
+# discards an entire catalog on one malformed entry — so a rejection fails this run.
+#
+# IMPORTANT (gate vs alarm): this check runs AFTER a push lands on the branch; it does
+# not intercept the push. On main it is an ALARM unless branch protection requires this
+# check AND direct pushes to main are disallowed (all changes via PR) — then it becomes
+# a real gate, because bad content cannot reach main (and thus the raw URL) without
+# passing. See tools/validate_catalogs.dart header + repo README.
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dart-lang/setup-dart@v1
+        with:
+          sdk: stable
+      - name: Validate catalogs against the app parser logic
+        run: dart run tools/validate_catalogs.dart
