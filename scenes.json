@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "scenes": [
     {
       "id": "default",
@@ -75,6 +75,39 @@
       "motion": "kenBurns",
       "imageUrl": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/crossed-9fws10/assets/9ugfi2b2re6j/night_sky.jpg",
       "audioUrl": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/crossed-9fws10/assets/4dbmkskwgw2k/ambient_night.mp3",
+      "swatch": "#232A5C"
+    },
+
+    {
+      "id": "family",
+      "label": "Family",
+      "motion": "kenBurns",
+      "imageUrl": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/crossed-9fws10/assets/w6n7tvmb1ha0/family.jpg",
+      "audioUrl": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/crossed-9fws10/assets/s1hlq6ym1evd/Praise_God.mp3",
+      "swatch": "#232A5C"
+    },
+    {
+      "id": "seed",
+      "label": "Seed",
+      "motion": "kenBurns",
+      "imageUrl": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/crossed-9fws10/assets/051sgd3exl2v/seed.jpg",
+      "audioUrl": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/crossed-9fws10/assets/51r87swo8xxu/Praise_Worship.mp3",
+      "swatch": "#232A5C"
+    },
+    {
+      "id": "underwater",
+      "label": "Underwater",
+      "motion": "kenBurns",
+      "imageUrl": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/crossed-9fws10/assets/1rf6wmn6ewfd/underwater.jpg",
+      "audioUrl": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/crossed-9fws10/assets/21s984fvuw9q/Praise_Miracle.mp3",
+      "swatch": "#232A5C"
+    },
+    {
+      "id": "doves",
+      "label": "Doves",
+      "motion": "kenBurns",
+      "imageUrl": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/crossed-9fws10/assets/b3vcq0gph510/doves.jpg",
+      "audioUrl": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/crossed-9fws10/assets/pmuj1io3z0gh/Praise_Worship2.mp3",
       "swatch": "#232A5C"
     }
   ]
