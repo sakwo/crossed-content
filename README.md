@@ -21,4 +21,5 @@ Remote content catalogs served to the shipped Crossed apps via
   not block serving. Run it locally first: `dart run tools/validate_catalogs.dart`.
 
 Full behavior + edit rules: `crossed-ai-workspace/docs/specs/catalog-constraints.md`.
-Known gaps in the guard: [`DEFERRED.md`](DEFERRED.md).
+Known gaps in the guard — and **iOS 26 feature candidates** (v3.1/v4 roadmap, §5, none started):
+[`DEFERRED.md`](DEFERRED.md).

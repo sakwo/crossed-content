@@ -61,3 +61,60 @@ changes via PR). Then bad content cannot reach `main` — and therefore the raw 
 check. Deferred as a deliberate choice: it forces every catalog edit through a PR, which is heavier for
 a solo content workflow. Enable it if/when catalog edits are done by more than one person, or before a
 period where a bad publish would be especially costly (e.g. right after a store launch).
+
+## 5. iOS 26 feature candidates — NOT STARTED (v3.1 / v4 only)
+
+> **Status: NONE of these are started or scheduled.** Build 56 + the Guideline 3.1.2(c) resubmission
+> come first — **3.0.0 must be LIVE on the App Store before any of these is picked up.** These are
+> v3.1 / v4 candidates for evaluation, not committed work. (Unlike §§1–4, these are *app* features, not
+> catalog-guard gaps — recorded here as the project's deferred-features home.)
+
+**Shared constraints — apply to every candidate below, stated once:**
+
+- **iOS 26+ only.** Each needs a graceful fallback / feature gate for older devices (the install base is
+  mostly pre-26 at launch, so the fallback path is the common path for a while).
+- **Native Swift in `platform/ios`, bridged via a platform channel** — none of these is a DSL
+  (`dsl/edit.dart`) edit. They live in the owned native tree; only a real overlaid build exercises them.
+- **No Android equivalent.** Each is iOS-only as scoped here; Android parity is a **separate** question
+  per feature (different APIs, different Play policy), so each is really a two-platform decision, not a
+  free cross-platform win.
+
+### 5.1 Foundation Models — on-device devotional generation — HIGHEST VALUE
+
+iOS 26 ships a **free, on-device, offline, no-API-key LLM** (~3B params, Apple Foundation Models).
+Candidate uses:
+
+- **AI devotional reflection per KJV verse** — a short generated reflection alongside the verse.
+- **Auto-classify verses into topic themes** — reduce manual tagging of the 31,102-verse set. Tags are a
+  persisted API (see `crossed-ai-workspace/docs/specs/catalog-constraints.md` and README §"Never rename a
+  verse `tag`"), so generation would ASSIST tagging, never silently rewrite existing tags.
+- **"Verse for my situation"** — natural-language input → suggested verse.
+
+Notes: **free per request, fully private** (nothing leaves the device — a strong fit for a faith
+audience), and Apple reviewers favor its adoption.
+⚠️ **If marketed, describe it precisely with honest, device-gating language.** We were rejected once
+under **Guideline 2.3.6** for describing an unbuilt feature — do not repeat that. This is the HONEST
+version of the previously-cut "AI backgrounds/sounds" direction: devotional **TEXT** generation is
+tractable and on-mission; AI **image/audio** generation remains unbuilt and must stay unclaimed.
+
+### 5.2 AlarmKit arrival alarm — strong fit
+
+Countdown-based scheduling maps directly onto "**alarm at the countdown's arrival date**." iOS 26's
+AlarmKit gives a true ring-until-dismissed alarm (through Silent/Focus, full-screen + Dynamic Island) —
+the same capability as the built-in Clock. iOS 26+, native, **no Android parity yet** (Android has its
+own full-screen-intent alarm path with separate Play-policy constraints).
+This supersedes the old "audible alarm is structurally impossible on iOS" assumption — see the corrected
+record in `crossed-ai-workspace/MEMORY.md` (§"Platform-capability corrections"); the impossibility was
+true only **pre-iOS-26**.
+
+### 5.3 Live Activity countdown — good conceptual fit
+
+Surface **days-remaining on the Lock Screen / Dynamic Island** as a Live Activity — a countdown is
+inherently "live." Moderate effort. iOS 26+, native.
+
+### 5.4 Liquid Glass appearance check — VERIFICATION, not a feature
+
+iOS 26's system "Liquid Glass" redesign is automatic for SwiftUI apps but **NOT for Flutter**. Crossed
+must be **checked on an iOS 26 device** to confirm the countdown, paywall, and widget still look
+intentional against the new system aesthetic — not broken or dated. **Low priority, no new code
+expected** — a look-and-confirm pass; it only becomes work if something reads as broken.
