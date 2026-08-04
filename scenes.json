@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "scenes": [
     {
       "id": "default",
@@ -108,6 +108,30 @@
       "motion": "kenBurns",
       "imageUrl": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/crossed-9fws10/assets/b3vcq0gph510/doves.jpg",
       "audioUrl": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/crossed-9fws10/assets/pmuj1io3z0gh/Praise_Worship2.mp3",
+      "swatch": "#232A5C"
+    },
+    {
+      "id": "grad",
+      "label": "Graduation",
+      "motion": "kenBurns",
+      "imageUrl": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/crossed-9fws10/assets/bhz16asusb4g/grad_01.jpg",
+      "audioUrl": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/crossed-9fws10/assets/xpbgtdpczb85/Misc_Excitement.mp3",
+      "swatch": "#232A5C"
+    },
+    {
+      "id": "baby",
+      "label": "Baby",
+      "motion": "kenBurns",
+      "imageUrl": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/crossed-9fws10/assets/l4l6wvk6j7l6/baby_06.jpg",
+      "audioUrl": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/crossed-9fws10/assets/pngua27qaoa1/piano_jesus.mp3",
+      "swatch": "#232A5C"
+    },
+    {
+      "id": "retire",
+      "label": "Retirement",
+      "motion": "kenBurns",
+      "imageUrl": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/crossed-9fws10/assets/cz90042wwoyg/retire_08.jpg",
+      "audioUrl": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/crossed-9fws10/assets/ifr3kucjekn1/guitar_travel.mp3",
       "swatch": "#232A5C"
     }
   ]
