@@ -77,7 +77,6 @@
       "audioUrl": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/crossed-9fws10/assets/4dbmkskwgw2k/ambient_night.mp3",
       "swatch": "#232A5C"
     },
-
     {
       "id": "family",
       "label": "Family",
@@ -133,6 +132,16 @@
       "imageUrl": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/crossed-9fws10/assets/cz90042wwoyg/retire_08.jpg",
       "audioUrl": "https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/crossed-9fws10/assets/ifr3kucjekn1/guitar_travel.mp3",
       "swatch": "#232A5C"
+    },
+    {
+      "id": "zz_bug3_test",
+      "label": "Bug3 Test",
+      "motion": "gradient",
+      "gradient": [
+        "#7B1FA2",
+        "#E040FB"
+      ],
+      "swatch": "#9C27B0"
     }
   ]
 }
