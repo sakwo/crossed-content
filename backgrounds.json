@@ -2927,19 +2927,6 @@
       "swatch": "#334155",
       "premium": true,
       "suggestedSound": null
-    },
-    {
-      "id": "zz_bug3c_bg",
-      "label": "Bug3c BG",
-      "category": "Abstract",
-      "kind": "gradient",
-      "gradient": [
-        "#7B1FA2",
-        "#E040FB"
-      ],
-      "swatch": "#9C27B0",
-      "premium": true,
-      "suggestedSound": "zz_bug3c_snd"
     }
   ]
 }
